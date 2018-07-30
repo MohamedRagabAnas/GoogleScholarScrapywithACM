@@ -1,0 +1,9 @@
+Affiliation,Topics,CitedBy,Name,Email
+"[u'Keio University', [u'National University Corporation Shizuoka University', u'Keio University']]","Ontologies,LOD,Human Friendly Robots",1699,Takahira Yamaguchi,ae.keio.ac.jp
+"[u'Dept. of MIS, Gyeongsang National University', [u'Korea Military Academy', u'Gyeongsang National University']]","Intelligent System,Semantic Web,LOD,Ontology,Data Mining",314,Donghee Yoo,gnu.ac.kr
+"Resp. R&D, programme Persée","RDF,LOD,Formats XML,Bibliothèques numériques",134,Viviane Boulétreau,persee.fr
+"[u'Assistant Professor of Computer Science, LIRMM UM2', [u""Laboratoire d'Informatique, de Robotique et de Microelectronique de Montpellier LIRMM"", u'CNRS Centre National de la Recherche Scientifique']]","virtual reality,augmented reality,computer graphics,scientific visualization,LOD",112,Nancy Rodriguez,lirmm.fr
+"[u'Nagoya University', [u'University of Tsukuba']]","LOD,Semantic Web,OLAP,Big Data Analysis,Information Retrieval",29,Takahiro Komamizu,acm.org
+성균관대학교,"정보서비스,LOD",5,김지영,skku.edu
+ITMO University,"AI,LOD,OWL,Ontology",4,Mikhail Navrotskiy,corp.ifmo.ru
+"[u'Lecturer of Computer Science, Higher Education KPK', [u'University of Peshawar']]","Semantic Web,Ontology Development,LOD,Web Mining,Information Architecture",2,Mumtaz Khan,upesh.edu.pk
